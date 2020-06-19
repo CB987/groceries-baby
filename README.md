@@ -5,9 +5,11 @@ I want to create an app that connects:
     <li>grocery list (ordered by location in store) linked to</li>
     <li>recipes linked to (with recipe api search?)</li>
     <li>calendar that shows when those recipes were made that also shows</li>
-    <li>to-do list with dates due, including errands, including grocery shopping, with links to...</li>
+    <li>to-do list with dates due, including errands, with a</li>
+    <li>map that will put the places you have to go in the most efficient order</li> 
+    <li>including grocery shopping, with links to...</li>
     <li>grocery list (see above)</li>
-   </ul>
+   </ul>https://trello.com/c/9KCrTZXM/51-06-19-2020
  
  <h4>necessary technologies</li>
   <ul>
