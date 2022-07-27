@@ -3,7 +3,8 @@
 I want to create an app that connects:
   <ul>
     <li>grocery list (ordered by location in store) linked to</li>
-    <li>recipes linked to (with recipe api search?)</li>
+    <li>ingredients in recipes linked to (with recipe api search?)</li>
+    <li>faves recipe db that we can add to and then ask it to bring back 5 random recipes</li>
     <li>calendar that shows when those recipes were made that also shows</li>
     <li>to-do list with dates due, including errands, with a</li>
     <li>map that will put the places you have to go in the most efficient order</li> 
